@@ -9,7 +9,7 @@ body{
     /* filter: blur(8px); */
     /* -webkit-filter:blur(8px) */
     background-position:auto ;
-    background-size: 100%;
+    background-size: cover;
     /* color: rgb(62, 8, 124); */
     /* opacity: 0.8; */
     background-color: rgb(236, 215, 20);
@@ -57,7 +57,8 @@ h1{
     text-align: center;
     color: rgb(39, 43, 228);
     /* font-family: 'Bree Serif', serif; */
-    font-family: 'Cinzel', serif;
+    /* font-family: 'Cinzel', serif; */
+    font-family: 'Berkshire Swash', cursive;
 }
 h3{
     display: flex;
@@ -66,6 +67,7 @@ h3{
     color: seashell;
     margin-top: 0;
     padding-top: 0;
+    font-family: 'Berkshire Swash', cursive;
 }
 /* #nav{ */
     /* margin-top:100px; */
@@ -84,4 +86,16 @@ h3{
     color: seashell;
     font-size: 25px;
 
+}
+h2 {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 50px;
+    color: aqua;
+    font-family: 'Berkshire Swash', cursive;
+
+}
+h4 {
+    font-size: 30px;
+    color: rgb(114, 76, 25);
+    font-family: 'Berkshire Swash', cursive;
 }

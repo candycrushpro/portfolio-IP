@@ -115,7 +115,7 @@ p{
 }
 #contacts, li{
     list-style: none;
-    color: bisque;
+    /* color: bisque; */
 }
 #contacts {
     text-align: center;

@@ -2,9 +2,12 @@ body{
     background-color: slategrey;
     
 }
+img {
+    margin-top: 0px;
+}
 #home{
-    background-image: url('https://globalsouthafricans.net/wp-content/uploads/2018/10/Best-Photographers-in-Africa.jpg');
-    background-repeat: no-repeat;
+    /* background-image: url('https://globalsouthafricans.net/wp-content/uploads/2018/10/Best-Photographers-in-Africa.jpg'); */
+    /* background-repeat: no-repeat; */
     height:50%;
     /* filter: blur(8px); */
     /* -webkit-filter:blur(8px) */
@@ -12,13 +15,15 @@ body{
     background-size: cover;
     /* color: rgb(62, 8, 124); */
     /* opacity: 0.8; */
-    background-color: rgb(236, 215, 20);
+    background-color: rgb(49, 80, 90);
+    margin-top: 30px;
 }
 nav{
     height: 50px;
     /* background-color: rgb(212, 199, 197); */
     padding-bottom: 0px;
     width: 100%;
+    /* position: fixed; */
  }
  section{
      margin-top: 0;
@@ -55,7 +60,7 @@ h1{
     justify-content: center;
     font-size: 100px;
     text-align: center;
-    color: rgb(39, 43, 228);
+    color: rgb(90, 209, 218);
     /* font-family: 'Bree Serif', serif; */
     /* font-family: 'Cinzel', serif; */
     font-family: 'Berkshire Swash', cursive;
@@ -64,10 +69,11 @@ h3{
     display: flex;
     justify-content: center;
     font-size: 30px;
-    color: seashell;
+    /* color: seashell; */
     margin-top: 0;
     padding-top: 0;
     font-family: 'Berkshire Swash', cursive;
+    color: rgb(90, 209, 218);
 }
 /* #nav{ */
     /* margin-top:100px; */
@@ -90,16 +96,35 @@ h3{
 h2 {
     /* font-family: Arial, Helvetica, sans-serif; */
     font-size: 50px;
-    color: aqua;
+    /* color: aqua; */
     font-family: 'Berkshire Swash', cursive;
+    color: rgb(90, 209, 218);
 
 }
 h4 {
-    font-size: 30px;
-    color: rgb(114, 76, 25);
+    font-size: 40px;
+    /* color: rgb(114, 76, 25); */
     font-family: 'Berkshire Swash', cursive;
+    text-align: left;
+    color: rgb(90, 209, 218);
 }
 p{
     font-style: italic;
+    font-size: 30px;
+    color: azure;
+}
+#contacts, li{
+    list-style: none;
+    color: bisque;
+}
+#contacts {
+    text-align: center;
+
+}
+#projects, ol, li, a{
     font-size: 20px;
+}
+h6{
+    font-size: 30px;
+    color: rgb(90, 209, 218);
 }

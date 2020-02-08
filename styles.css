@@ -1,19 +1,16 @@
 body{
-    background-color: slategrey;
-    
-}
-img {
-    margin-top: 0px;
+    background-color: rgb(206, 212, 218);
+    /* background-image: url('https://cnet2.cbsistatic.com/img/iule__sh8DjqAyfHrXP_2hSfjZQ=/940x0/2019/11/01/cb652776-94e5-4484-bdf4-b718c16ecff1/moment-photo-cecdb4a0-2.jpg'); */
+    /* background-image: url('https://cdn2.outdoorphotographer.com/2019/01/Moody_Landscapes_1.jpg'); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 #home{
-    /* background-image: url('https://globalsouthafricans.net/wp-content/uploads/2018/10/Best-Photographers-in-Africa.jpg'); */
-    /* background-repeat: no-repeat; */
+    background-image: url('https://d4kkpd69xt9l7.cloudfront.net/sys-master/root/h39/h95/9126618693662/razer-blade-15-gallery08.jpg');
+    background-repeat: no-repeat;
     height:50%;
-    /* filter: blur(8px); */
-    /* -webkit-filter:blur(8px) */
-    background-position:auto ;
     background-size: cover;
-    /* color: rgb(62, 8, 124); */
+    color: rgb(62, 8, 124);
     /* opacity: 0.8; */
     background-color: rgb(49, 80, 90);
     margin-top: 30px;
@@ -54,6 +51,10 @@ ul li a{
 }
 ul li a:hover{
     background-color: teal;
+}
+ img{
+    float: right;
+    border: 1px cyan;
 }
 h1{
     display: flex;
@@ -96,9 +97,9 @@ h3{
 h2 {
     /* font-family: Arial, Helvetica, sans-serif; */
     font-size: 50px;
-    /* color: aqua; */
+    color: rgb(49, 80, 90);
     font-family: 'Berkshire Swash', cursive;
-    color: rgb(90, 209, 218);
+    color: rgb(16, 17, 17);
 
 }
 h4 {
@@ -106,12 +107,14 @@ h4 {
     /* color: rgb(114, 76, 25); */
     font-family: 'Berkshire Swash', cursive;
     text-align: left;
-    color: rgb(90, 209, 218);
+    /* color: rgb(110, 78, 36); */
+    color: rgb(57, 98, 112);
+
 }
 p{
     font-style: italic;
     font-size: 30px;
-    color: azure;
+    color: rgb(184, 235, 235);
 }
 #contacts, li{
     list-style: none;
@@ -121,12 +124,15 @@ p{
     text-align: center;
 
 }
+#contacts a{
+    color: chocolate;
+}
 #projects, ol, li, a{
     font-size: 20px;
 }
 h6{
     font-size: 30px;
-    color: rgb(90, 209, 218);
+    color: rgb(22, 24, 24);
 }
 .footer{
     background-color: rgb(49, 80, 90);

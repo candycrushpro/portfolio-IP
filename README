@@ -1,18 +1,17 @@
 portfolio-IP
+
 Is a website that breifely describes me and my background education,work experience and some of the things i like doing, 
 Date: Feb, 9th, 2020
 Author: Dan Bradley Otieno
 
 Description:
 This website describe more about dan bradley and my background, my interest is to become a professional web developer.So these is one of my first websites practices and I hope i will do better next time with the help of my other fellow web developers.
-## Setup/Installation Requirements
+
+Setup/Installation Requirements
 * Home describes the page
 * Projects highlights some of the projects I have done
 * About describes my background
 * Contact gives details on how to reach me 
-* 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-
 
 Technologies Used
 I used my HTML and CSS to come up with my website, in future I would like to add other langueges like Javascript to style my website.

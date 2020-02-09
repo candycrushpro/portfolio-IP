@@ -11,6 +11,7 @@ body{
     background-image: url("https://moneyinc.com/wp-content/uploads/2016/09/2017-Ferrari-F12-750x407.jpg");
     background-repeat: no-repeat;
     height: 70%;
+    /* width: 100%; */
     background-size:100%;
     color: rgb(241, 239, 243);
     /* opacity: 0.8; */

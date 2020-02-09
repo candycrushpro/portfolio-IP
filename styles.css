@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(206, 212, 218);
+    background-color: rgb(240, 243, 247);
     /* background-image: url('https://cnet2.cbsistatic.com/img/iule__sh8DjqAyfHrXP_2hSfjZQ=/940x0/2019/11/01/cb652776-94e5-4484-bdf4-b718c16ecff1/moment-photo-cecdb4a0-2.jpg'); */
     /* background-image: url('https://cdn2.outdoorphotographer.com/2019/01/Moody_Landscapes_1.jpg'); */
     background-repeat: no-repeat;
@@ -114,7 +114,7 @@ h4 {
 p{
     font-style: italic;
     font-size: 30px;
-    color: rgb(184, 235, 235);
+    color: rgb(4, 29, 29);
 }
 #contacts, li{
     list-style: none;

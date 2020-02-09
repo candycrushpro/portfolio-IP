@@ -141,3 +141,7 @@ h6{
     background-color: rgb(49, 80, 90);
 
 }
+#interest, ul, li{
+    font-family: italic;
+    font-size: 30px;
+}

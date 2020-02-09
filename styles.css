@@ -56,8 +56,8 @@ ul li a:hover{
     background-color: teal;
 }
  img{
-    float: right;
-    border: 1px cyan;
+    float: center;
+    border:solid 3px rgb(28, 32, 32);
 }
 h1{
     display: flex;
